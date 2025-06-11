@@ -8,7 +8,7 @@ const students = [
   { name: "Menna Salah Abdelhamed Abdelhafez", gpa: 3.79, department: "IT" },
   { name: "Sara Ezzat", gpa: null, department: "IT" },
   { name: "Moataz Mohammed Mohammed", gpa: 3.72, department: "IT" },
-  { name: "Rogena Yousry Adel", gpa: null, department: "AI" },
+  { name: "Rogena Yousry Adel", gpa: 3.8, department: "AI" },
   { name: "Arwa Ali Mohamed Ahmed", gpa: null, department: "AI" },
   { name: "Selwan Ezzat Mohamed", gpa: null, department: "AI" },
   { name: "Youssef Lowes", gpa: 3.59, department: "IT" },
