@@ -14,7 +14,7 @@ const students = [
   { name: "Youssef Lowes", gpa: 3.59, department: "IT" },
   { name: "Nada Emad Sabry Melk", gpa: null, department: "IT" },
   { name: "Nooran Abdulbasit Ali", gpa: null, department: "AI" },
-  { name: "Shaimaa Mohammed Abuzaid Mohammed", gpa: null, department: "AI" },
+  { name: "Shaimaa Mohammed Abuzaid Mohammed", gpa: 3.68, department: "AI" },
   { name: "Sama Moustafa Ibrahim", gpa: null, department: "AI" },
 ];
 
