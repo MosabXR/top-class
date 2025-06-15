@@ -15,7 +15,7 @@ const students = [
   { name: "Nada Emad Sabry Melk", gpa: null, department: "IT" },
   { name: "Nooran Abdulbasit Ali", gpa: null, department: "AI" },
   { name: "Shaimaa Mohammed Abuzaid Mohammed", gpa: 3.68, department: "AI" },
-  { name: "Sama Moustafa Ibrahim", gpa: null, department: "AI" },
+  { name: "Sama Moustafa Ibrahim", gpa: 3.67, department: "AI" },
 ];
 
 const sortedStudents = students.sort((a, b) => b.gpa - a.gpa);
