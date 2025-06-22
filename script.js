@@ -1,7 +1,7 @@
 const students = [
   { name: "Mosaab Mohammed Atef Mohammed", gpa: 3.65, department: "IT" },
   { name: "Mina Remon Adel Tawfik", gpa: 3.76, department: "AI" },
-  { name: "Mahmoud Ahmed Bahnasawy Ahmed", gpa: 3.75, department: "IT" },
+  { name: "Mahmoud Ahmed Bahnasawy Ahmed", gpa: 3.76, department: "IT" },
   { name: "Shahd Abdelaziz Farghaly Romih", gpa: 3.96, department: "AI" },
   { name: "Mahmoud Nabil Mostafa", gpa: 3.87, department: "IT" },
   { name: "Shahd Nady Sayed", gpa: 3.74, department: "IT" },
@@ -11,10 +11,10 @@ const students = [
   { name: "Rogena Yousry Adel", gpa: 3.81, department: "AI" },
   { name: "Arwa Ali Mohamed Ahmed", gpa: 3.74, department: "AI" },
   { name: "Selwan Ezzat Mohamed", gpa: 3.72, department: "AI" },
-  { name: "Youssef Lowes", gpa: 3.61, department: "IT" },
+  { name: "Youssef Lowes", gpa: 3.59, department: "IT" },
   { name: "Nada Emad Sabry Melk", gpa: null, department: "IT" },
   { name: "Nooran Abdulbasit Ali", gpa: null, department: "AI" },
-  { name: "Shaimaa Mohammed Abuzaid Mohammed", gpa: 3.68, department: "AI" },
+  { name: "Shaimaa Mohammed Abuzaid Mohammed", gpa: 3.69, department: "AI" },
   { name: "Sama Moustafa Ibrahim", gpa: 3.68, department: "AI" },
   { name: "Mohamed Abdelbaset Mohamed", gpa: 3.62, department: "AI" },
 ];
